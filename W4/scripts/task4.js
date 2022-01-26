@@ -76,4 +76,5 @@ info.placesLived.forEach((placeLived) => {
 })
    
 
-document.querySelector("#w2").setAttribute("href", "W3/task3.html")
+document.querySelector("#w2").setAttribute("href", "https://lucca1998byu.github.io/CSE121B/W2/task2.html")
+document.querySelector("#w3").setAttribute("href", "https://lucca1998byu.github.io/CSE121B/W3/task3.html")
