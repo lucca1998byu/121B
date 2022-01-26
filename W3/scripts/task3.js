@@ -90,5 +90,6 @@ document.querySelector("#multiplied").textContent = array.map((x) => x *2);
 // Step 7: Use the map and reduce array methods to sum the array elements after multiplying each element by two.  Assign the result to the HTML element with an ID of "sumOfMultiplied"
 document.querySelector("#sumOfMultiplied").textContent = array.map(x => x*2).reduce((sum,number) => sum + number, 0);
 
+
 document.querySelector("#w2").setAttribute("href", "https://lucca1998byu.github.io/CSE121B/W2/task2.html")
 document.querySelector("#w4").setAttribute("href", "https://lucca1998byu.github.io/CSE121B/W4/task4.html")
