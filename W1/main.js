@@ -50,3 +50,7 @@ function output(line, content) {
   const outputElement = document.querySelector(".output");
   outputElement.innerHTML += `<p>${line} : ${content}</p>`;
 }
+
+
+
+
